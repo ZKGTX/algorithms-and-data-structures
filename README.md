@@ -1,1 +1,1 @@
-Study and practice algorithms and data structures of Java language
+This repository is dedicated to studying algorithms and data structures of Java language/
